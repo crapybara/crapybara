@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Go+Developer;Linux+User;Building+GammaFit;Docker+First+Architecture;HTMX+%2B+SQLite+%2B+Wails&center=true&width=600&height=60&color=00FF99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Devops;game-dev;embeded+systems;linux;low-level+programming;i+love+computers&center=true&width=600&height=60&color=00FF99)](https://git.io/typing-svg)
