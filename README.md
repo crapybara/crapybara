@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DevOps;Game+Dev;Embedded+Systems;Linux;Low-Level+Programming;I+Love+Computers&center=true&width=600&height=60&color=00FF99)](https://git.io/typing-svg)
 
-<img align="right" height="220" width="320" alt="Cat GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25oem15aW9iN2V3dnprcWg4cGtteGVoN3k1dWl4YWxjNmN0OWl1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B6SyssSlTgPXq/giphy.gif">
+<img align="right" height="210" width="300" alt="Cat GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25oem15aW9iN2V3dnprcWg4cGtteGVoN3k1dWl4YWxjNmN0OWl1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B6SyssSlTgPXq/giphy.gif">
 
 # Welcome to My GitHub
 
@@ -48,6 +48,12 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 ![HTMX](https://img.shields.io/badge/HTMX-36C?logo=htmx&logoColor=white)
 
+---
+
+### Contact
+
+- XMPP
+
 </td>
 
 <td valign="top" width="50%">
@@ -68,9 +74,17 @@
 
 ---
 
-### Activity
+### GitHub Activity
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=crapybara&theme=synthwave&hide_border=true&short_numbers=true" />
+
+---
+
+### Workspace
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="90%" alt="Workspace GIF" />
+</p>
 
 </td>
 </tr>
@@ -82,22 +96,4 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=crapybara&theme=dracula&no-bg=true&row=1&margin-w=15" />
-</p>
-
----
-
-# 🖥 Workspace
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="70%" alt="Hacker GIF" />
-</p>
-
----
-
-# 📫 Contact
-
-- XMPP
-
-<p align="center">
-  <img height="180" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" alt="CatCat">
 </p>
