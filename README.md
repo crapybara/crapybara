@@ -82,19 +82,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=crapybara&theme=synthwave&hide_border=true&short_numbers=true" />
 
----
-
-### Workspace
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="90%" alt="Workspace GIF" />
-</p>
-
-</td>
-</tr>
-</table>
-
----
 
 # 🏆 GitHub Trophies
 
