@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DevOps;Game+Dev;Embedded+Systems;Linux;Low-Level+Programming;I+Love+Computers&center=true&width=600&height=60&color=00FF99)](https://git.io/typing-svg)
 
-<img align="right" height="210" width="300" alt="Cat GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25oem15aW9iN2V3dnprcWg4cGtteGVoN3k1dWl4YWxjNmN0OWl1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B6SyssSlTgPXq/giphy.gif">
+<img align="right" height="210" width="300" alt="Cat GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZyZHQ0eXZwdTgyMWRqbXNkMW03OXRybTcybmY1NDVtYm5neDFubSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/djJhSI0uSlOLiEs7jr/giphy.gif">
 
 # Welcome to My GitHub
 
