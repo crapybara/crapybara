@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
 </p>
 
-<img align="left" height="200" width="350" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+<img align="left" height="200" width="150" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 <img align="right" height="270" width="400" alt="Cat GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
 
