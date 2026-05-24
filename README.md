@@ -1,6 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DevOps;Game+Dev;Embedded+Systems;Linux;Low-Level+Programming;I+Love+Computers&center=true&width=600&height=60&color=00FF99)](https://git.io/typing-svg)
+<table>
+<tr>
+<td width="60%">
 
-<img align="right" height="210" width="300" alt="Cat GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZyZHQ0eXZwdTgyMWRqbXNkMW03OXRybTcybmY1NDVtYm5neDFubSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/djJhSI0uSlOLiEs7jr/giphy.gif">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DevOps;Game+Dev;Embedded+Systems;Linux;Low-Level+Programming;I+Love+Computers&center=true&width=600&height=60&color=00FF99)](https://git.io/typing-svg)
 
 # Welcome to My GitHub
 
@@ -18,13 +20,15 @@
   <img src="https://img.shields.io/github/followers/crapybara?style=for-the-badge" />
 </p>
 
-<br clear="both">
+</td>
 
----
+<td width="40%" align="right">
 
-# 🛠 Tech Stack
+<img height="210" width="300" alt="Cat GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZyZHQ0eXZwdTgyMWRqbXNkMW03OXRybTcybmY1NDVtYm5neDFubSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/djJhSI0uSlOLiEs7jr/giphy.gif">
 
-<table>
+</td>
+</tr>
+</table>
 <tr>
 <td valign="top" width="50%">
 
