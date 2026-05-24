@@ -1,43 +1,32 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DevOps;Game+Dev;Embedded+Systems;Linux;Low-Level+Programming;I+Love+Computers&center=true&width=600&height=60&color=00FF99)](https://git.io/typing-svg)
 
-<h1 align="center">Welcome to My GitHub</h1>
-
-<p align="center">
-  <i>"codehub"</i>
-</p>
-
-<p align="center">
-</p>
-
 <img align="right" height="270" width="400" alt="Cat GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25oem15aW9iN2V3dnprcWg4cGtteGVoN3k1dWl4YWxjNmN0OWl1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B6SyssSlTgPXq/giphy.gif">
 
-<br><br>
+# Welcome to My GitHub
 
-## About Me
+> `"codehub"`
+
+### About Me
 
 - 💻 Programmer since 2023
 - 🐧 Linux enthusiast
 - ⚙️ Interested in low-level systems, embedded development, and DevOps
 - 🎮 Exploring game development
 
+<br>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=crapybara&color=blueviolet&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/crapybara?style=for-the-badge" />
+</p>
+
 <br clear="both">
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=crapybara&color=blueviolet&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/bed-dev?style=for-the-badge" />
-</p>
+# 🛠 Tech Stack
 
----
-
-# Tech Stack
-
-<table>
-<tr>
-<td width="60%">
-
-## 🛠 Languages
+## Languages
 
 <p align="center">
 
@@ -54,17 +43,19 @@
 
 ---
 
-## 📱 Frameworks & App Development
+## Frameworks & Tools
 
 <p align="center">
 
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=white)
+![Ghostty](https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term)
 
 </p>
 
 ---
 
-## 🎨 Frontend
+## Frontend
 
 <p align="center">
 
@@ -76,7 +67,7 @@
 
 ---
 
-## ☁️ Databases & Cloud
+## Databases & Cloud
 
 <p align="center">
 
@@ -86,36 +77,15 @@
 
 </p>
 
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Hacker GIF" width="100%" />
-
-</td>
-</tr>
-</table>
-
----
-
-## 🖥 Terminal Tools
-
-<p align="center">
-
-![Ghostty](https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term)
-![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=white)
-
-</p>
-
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bed-dev&show_icons=true&theme=tokyonight&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=crapybara&show_icons=true&theme=tokyonight&count_private=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crapybara&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crapybara&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </p>
 
@@ -138,5 +108,5 @@
 - XMPP
 
 <p align="center">
-  <img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat">
+  <img height="220" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" alt="CatCat">
 </p>
