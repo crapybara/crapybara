@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Devops;game-dev;embeded+systems;linux;low-level+programming;i+love+computers&center=true&width=600&height=60&color=00FF99)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Devops;game-dev;embeded+systems;linux;low-level+programming;i+love+computers&center=true&width=600&height=60&color=00FF99)](https://git.io/typing-svg)
 <h1 align="center" style="font-size: 22px">welcome to my git</h1>
 <p align="center">
   <br>
@@ -35,36 +35,34 @@
     <td width="60%">
 <h3>🛠️ Languages</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=openjdk&logoColor=white&logoSize=64&label=%20&labelColor=ED8B00&color=242323" alt="Java" />
-<img src="https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=white&logoSize=64&label=%20&labelColor=7F52FF&color=242323" alt="Kotlin" />
-<img src="https://img.shields.io/badge/Dart-white?style=for-the-badge&logo=dart&logoColor=white&logoSize=64&label=%20&labelColor=0175C2&color=242323" alt="Dart" />
-<br>
-<img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=black&logoSize=64&label=%20&labelColor=F7DF1E&color=242323" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=white&logoSize=64&label=%20&labelColor=3178C6&color=242323" alt="TypeScript" />
-<img src="https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php&logoColor=white&logoSize=64&label=%20&labelColor=777BB4&color=242323" alt="PHP" />
+[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
+[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
 </div>
 <br>
 <h3>📱 App Development & Frameworks</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=flutter&logoColor=white&logoSize=64&label=%20&labelColor=02569B&color=242323" alt="Flutter" />
-<img src="https://img.shields.io/badge/React_Native-white?style=for-the-badge&logo=react&logoColor=61DAFB&logoSize=64&label=%20&labelColor=20232A&color=242323" alt="React Native" />
-<img src="https://img.shields.io/badge/Expo-white?style=for-the-badge&logo=expo&logoColor=white&logoSize=64&label=%20&labelColor=1B1F23&color=242323" alt="Expo" />
+[![Tauri](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff)](#)
 <br>
-<img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=white&logoSize=64&label=%20&labelColor=339933&color=242323" alt="Node.js" />
 </div>
 <br>
 <h3>🎨 Frontend</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=white&logoSize=64&label=%20&labelColor=E34F26&color=242323" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=white&logoSize=64&label=%20&labelColor=1572B6&color=242323" alt="CSS3" />
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![HTMX](https://img.shields.io/badge/HTMX-36C?logo=htmx&logoColor=fff)](#)
 </div>
 <br>
 <h3>☁️ Databases & Cloud</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=white&logoSize=64&label=%20&labelColor=47A248&color=242323" alt="MongoDB" />
-<img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=white&logoSize=64&label=%20&labelColor=4479A1&color=242323" alt="MySQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=64&label=%20&labelColor=316192&color=242323" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Supabase-white?style=for-the-badge&logo=supabase&logoColor=3ECF8E&logoSize=64&label=%20&labelColor=181818&color=242323" alt="Supabase" />
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#)
 </div>
 </td>
 <td width="40%" align="center">
@@ -72,7 +70,9 @@
 </td>
 </tr>
 </table>
-
+<h3>terminal tools</h3>
+[![Ghostty](https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term)](#)
+[![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff)](#)
 
 ### 📊 My Github Stats:
 <br/>
